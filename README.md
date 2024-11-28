@@ -1,3 +1,3 @@
 # Trendline Project
 
-<a href="https://sunaramwebdev.github.io/trendline-proje"> Project Preview</a>
+<a href="https://sunaramwebdev.github.io/trendline-project/"> Project Preview</a>
